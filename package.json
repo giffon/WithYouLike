@@ -29,7 +29,7 @@
     "@googlemaps/google-maps-services-js": "3.1.16",
     "aws-lambda-fastify": "1.7.1",
     "chokidar": "3.5.2",
-    "fastify": "3.19.1",
+    "fastify": "3.19.2",
     "fastify-cors": "6.0.2",
     "fastify-static": "4.2.2",
     "flexsearch": "0.6.32",
