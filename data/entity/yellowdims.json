@@ -20,12 +20,12 @@
             "name": "Product/Service"
           },
           {
-            "id": "2903",
-            "name": "Art"
-          },
-          {
             "id": "2239",
             "name": "Retail Company"
+          },
+          {
+            "id": "2903",
+            "name": "Art"
           }
         ],
         "emails": [

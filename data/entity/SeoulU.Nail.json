@@ -5,30 +5,27 @@
   },
   "webpages": [
     {
-      "url": "https://www.facebook.com/SeoulU.Nail/",
+      "url": "https://www.facebook.com/A51663319/",
       "meta": {
         "id": "2044654945762270",
-        "username": "SeoulU.Nail",
+        "username": "A51663319",
         "name": "Seoul U Nail & Eyelashe Studio",
-        "about": "Seoul U Nail 高質上門美甲服務\nOffice Hours 12:00 to 21:00\nWhatsApp 63880348\n\n銅鑼灣總店\n香港銅鑼灣駱駝道501號1樓\n\n灣仔分店\n香港灣仔天樂里僑康大厦1樓B室",
+        "about": "優質上門美甲服務",
         "category_list": [
           {
             "id": "198516863494646",
             "name": "Nail Salon"
           },
           {
-            "id": "120731481338075",
-            "name": "Beauty Supplier"
-          },
-          {
             "id": "1644814599176740",
             "name": "Skin Care Service"
+          },
+          {
+            "id": "120731481338075",
+            "name": "Beauty Supplier"
           }
         ],
-        "emails": [
-          "seoulu.nail@gmail.com"
-        ],
-        "single_line_address": "No.21-22 B/F, Pak Ling Building, 368-374 Lockhart Road, Wai Chai, HK, Hong Kong, Hong Kong"
+        "single_line_address": "Hong Kong, Hong Kong"
       }
     },
     {

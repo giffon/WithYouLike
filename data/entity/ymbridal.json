@@ -11,15 +11,19 @@
         "id": "1677482549150961",
         "username": "ymbridal",
         "name": "YM Bridal 晚裝姊妹裙",
-        "about": "YM Bridal 晚裝姊妹裙店\n觀塘成業街16號 怡生工業中心H座 11樓 1120室.\n可facebook inbox或 whatsapps : 6843 1773. \n星期一至五：6pm-8pm\n星期六：1pm-6:30pm\n星期日: 休息\n*暫只接受預約*\n~公眾假期請先查詢~",
+        "about": "YM Bridal 晚裝姊妹裙店*\n\n*出售現貨姊妹裙\n*改裙服務\n\n歡迎查詢預約:\nFB inbox �/WhatsApp 6843 1773\n*只接受預約*",
         "category_list": [
+          {
+            "id": "103446129740239",
+            "name": "Bridal Shop"
+          },
           {
             "id": "180117982029833",
             "name": "Costume Shop"
           },
           {
-            "id": "103446129740239",
-            "name": "Bridal Shop"
+            "id": "2239",
+            "name": "Retail Company"
           }
         ],
         "emails": [

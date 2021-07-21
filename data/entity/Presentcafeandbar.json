@@ -16,18 +16,22 @@
         "about": "Be present",
         "category_list": [
           {
-            "id": "192661127431931",
-            "name": "Wine Bar"
+            "id": "110290705711626",
+            "name": "Bar"
           },
           {
             "id": "197871390225897",
             "name": "Cafe"
+          },
+          {
+            "id": "273819889375819",
+            "name": "Restaurant"
           }
         ],
         "emails": [
           "presentcafeandbar@gmail.com"
         ],
-        "single_line_address": "No. 44 Tak Ku Ling Road, Kowloon City, 852 九龍",
+        "single_line_address": "No. 44 Tak Ku Ling Road, Kowloon City, 852 Kowloon, Hong Kong",
         "website": "https://www.presentcafeandbar.com/"
       }
     },
@@ -40,12 +44,12 @@
         "about": "PRESENT",
         "category_list": [
           {
-            "id": "110290705711626",
-            "name": "Bar"
-          },
-          {
             "id": "197871390225897",
             "name": "Cafe"
+          },
+          {
+            "id": "273819889375819",
+            "name": "Restaurant"
           }
         ],
         "emails": [
@@ -62,17 +66,21 @@
         "id": "662481020866710",
         "username": "PresentTsingYi",
         "name": "Present Tsing Yi",
-        "about": "當下加油！時代抗疫！",
+        "about": "Present Restaurant and Bar 當下\n營業時間：12:00noon-10:00pm\n地址：青衣翠怡花園4號 #百佳旁 #不在商場內\n電話：26307288\nwww.presentcafeandbar.com\n📲RVSP(Contact Us 聯絡我們）",
         "category_list": [
           {
-            "id": "233804719972590",
-            "name": "Bar & Grill"
+            "id": "1721970931353243",
+            "name": "Yoshoku Restaurant"
+          },
+          {
+            "id": "134501539950711",
+            "name": "Sushi Restaurant"
           }
         ],
         "emails": [
           "presenttsingyi@gmail.com"
         ],
-        "single_line_address": "No.4 Cheung Wan Street, Tsing Yi,, 852 香港",
+        "single_line_address": "No.4 Cheung Wan Street, Tsing Yi,, 852 Hong Kong, Hong Kong",
         "website": "https://www.presentcafeandbar.com/"
       },
       "hidden": true
@@ -86,15 +94,11 @@
         "about": "It’s all about sake and Yakitory.",
         "category_list": [
           {
-            "id": "1640927539562872",
-            "name": "Sake Bar"
-          },
-          {
-            "id": "113264772433008",
-            "name": "Yakitori Restaurant"
+            "id": "199035016778342",
+            "name": "Japanese Restaurant"
           }
         ],
-        "single_line_address": "79 Tak Ku Ling Road, Kowloon City, 852 香港",
+        "single_line_address": "79 Tak Ku Ling Road, Kowloon City, 852 Hong Kong, Hong Kong",
         "website": "www.presentcafeandbar.com"
       }
     },
@@ -107,10 +111,6 @@
         "about": "Sake Bar PRESENT 禮",
         "category_list": [
           {
-            "id": "110290705711626",
-            "name": "Bar"
-          },
-          {
             "id": "199035016778342",
             "name": "Japanese Restaurant"
           }
@@ -118,7 +118,7 @@
         "emails": [
           "sakebarpresenttkw@gmail.com"
         ],
-        "single_line_address": "44 Tin Kwong Road, Tokwawan., 852 香港",
+        "single_line_address": "44 Tin Kwong Road, Tokwawan., 852 Hong Kong, Hong Kong",
         "website": "www.presentcafeandbar.com"
       },
       "hidden": true
@@ -132,13 +132,14 @@
         "about": "It is all about Sake and Yakitori.",
         "category_list": [
           {
-            "id": "2201",
-            "name": "Product/Service"
+            "id": "199035016778342",
+            "name": "Japanese Restaurant"
           }
         ],
         "emails": [
           "sakebarpresentpe@gmail.com"
         ],
+        "single_line_address": "G/F 213A Fa Yuen street",
         "website": "http://www.presentcafeandbar.com"
       },
       "hidden": true
