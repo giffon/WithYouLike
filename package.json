@@ -32,7 +32,7 @@
     "fastify": "3.19.1",
     "fastify-cors": "6.0.2",
     "fastify-static": "4.2.2",
-    "flexsearch": "0.6.32",
+    "flexsearch": "0.7.2",
     "google-spreadsheet": "3.1.15",
     "jimp": "0.16.1",
     "jsdom": "16.6.0",
